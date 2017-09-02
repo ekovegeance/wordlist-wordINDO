@@ -8,7 +8,7 @@ worldlist Indonesia
 
 
 ## :octocat: Credits
-1. Twitter @ekovegeance7  main developer of wece
+1. Twitter @ekovegeance7  main developer of wordINDO
 2. https://www.parrotsec.org
 3. https://dracos-linux.org
 4. Offensive Secuirty for the awesome os
