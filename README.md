@@ -2,10 +2,10 @@
 worldlist Indonesia
 ## Donations
 
-- Donation: Send to [bitcoin](https://blockchain.info/address/15AvbuWtVfkA1rCWxJ29j22qwN9z1cBnE7)
-
-- Addres Bitcoin : 15AvbuWtVfkA1rCWxJ29j22qwN9z1cBnE7
-
+- Donation: Send to [bitcoin]1CXqJujxt3MV9ujRwwQtM6Y1oeWsGJfEbc
+ 
+- Addres Bitcoin : 1CXqJujxt3MV9ujRwwQtM6Y1oeWsGJfEbc
+ 
 
 ## :octocat: Credits
 1. Twitter @ekovegeance7  main developer of wordINDO
