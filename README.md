@@ -2,9 +2,8 @@
 worldlist Indonesia
 ## Donations
 
-- Donation: Send to [bitcoin]1CXqJujxt3MV9ujRwwQtM6Y1oeWsGJfEbc
- 
-- Addres Bitcoin : 1CXqJujxt3MV9ujRwwQtM6Y1oeWsGJfEbc
+- Donation: Send to [bitcoin]
+1CXqJujxt3MV9ujRwwQtM6Y1oeWsGJfEbc
  
 
 ## :octocat: Credits
