@@ -3,7 +3,10 @@ worldlist Indonesia
 ## Donations
 
 - Donation: Send to [bitcoin]
-1CXqJujxt3MV9ujRwwQtM6Y1oeWsGJfEbc
+13StAcVxmfSSh6DPiJhRLe9DNBF7xP42ia
+- Donation: Send to [ether]
+0x6664e250107110c0C3642029a18c9ce8F4C27288
+
  
 
 ## :octocat: Credits
