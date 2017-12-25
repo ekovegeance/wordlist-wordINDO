@@ -1,5 +1,8 @@
 # wordlist-wordINDO
 worldlist Indonesia
+# shell-indoxploit-v.3
+shell backdoor website
+
 ## Donations
 
 - Address bitcoin : 1CXqJujxt3MV9ujRwwQtM6Y1oeWsGJfEbc
@@ -8,13 +11,17 @@ worldlist Indonesia
 
  
 
-## :octocat: Credits
-1. Twitter @ekovegeance7  main developer of wordINDO
-2. https://www.parrotsec.org
-3. https://dracos-linux.org
-4. Offensive Secuirty for the awesome os
-5. http://www.kali.org
-6. http://www.offensive-security.com
+## :octocat: Contact
+- Website : https://evsystemsite.wordpress.com/
+- Facebook : https://web.facebook.com/eko.vegeance.1
+- Twitter : https://twitter.com/ekovegeance7
+- Telegram : https://t.me/evsystemsite
+- Google+ : https://plus.google.com/117233958552972040322?hl=id
+
+## : Partner
+- Xenta OS : http://www.xentaos.org/
+- IndoXploit : https://www.indoxploit.or.id/
+- dracOs Linux : https://dracos-linux.org/
 
 ## Disclaimer
 
