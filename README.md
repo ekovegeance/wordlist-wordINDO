@@ -2,9 +2,8 @@
 worldlist Indonesia
 ## Donations
 
-- Donation: Send to [bitcoin](https://blockchain.info/address/13StAcVxmfSSh6DPiJhRLe9DNBF7xP42ia)
-- Address bitcoin : 13StAcVxmfSSh6DPiJhRLe9DNBF7xP42ia
-- Address ether   : 0x6664e250107110c0C3642029a18c9ce8F4C27288
+- Address bitcoin : 1CXqJujxt3MV9ujRwwQtM6Y1oeWsGJfEbc
+- Address dogecoin   : D8LgXt1yjTXxSyMkxb6e5s26WQTmEx1JNj
 
 
  
