@@ -1,7 +1,5 @@
 # wordlist-wordINDO
 worldlist Indonesia
-# shell-indoxploit-v.3
-shell backdoor website
 
 ## Donations
 
